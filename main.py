@@ -1,0 +1,1 @@
+print("это main ветки main")
